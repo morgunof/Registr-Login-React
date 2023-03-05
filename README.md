@@ -1,1 +1,1 @@
-login-registaration-react-git-main-morgunof.vercel.app
+https://registr-login-react-git-main-morgunof.vercel.app
